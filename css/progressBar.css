@@ -1,19 +1,19 @@
 :root {
-    --java: 70%;
+    --java: 60%;
     --dart: 70%;
-    --typescript: 60%;
-    --javascript: 50%;
+    --typescript: 70%;
+    --javascript: 70%;
     --python: 50%;
     --prestashop: 70%;
-    --html: 60%;
-    --css: 60%;
-    --angular: 40%;
+    --html: 80%;
+    --css: 80%;
+    --angular: 60%;
     --flutter: 70%;
     --android: 50%;
     --espanol: 100%;
     --ingles: 70%;
-    --linux: 65%;
-    --latex: 60%;
+    --linux: 70%;
+    --latex: 80%;
     /*
     --mysql: 90%;
     */
